@@ -152,9 +152,11 @@ prediction = predictor.predict_game(
 ```
 pleague-predictor/
 ├── data/
-│   ├── team_data/
+│   ├── DB_data/
 │   │   └── [team]_game_history.csv
-│   └── schedules/
+│   │   └──  Upcoming_Schedule.csv
+│   └── RAW data(processed)/
+│   │   └── [team]_game_history.csv
 │       └── Upcoming_Schedule.csv
 ├── src/
 │   ├── Predictor_nC.py
