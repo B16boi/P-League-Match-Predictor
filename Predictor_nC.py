@@ -1,10 +1,11 @@
 import psycopg2
+from db_manager import DB_USER, DB_PWORD, DB_AWS_CRED, DB_POPRT, DB_PLG
 
-connection = psycopg2.connect(user="DB_USER",
-                             password="DB_PWORD",
-                             host="DB_AWS_CRED",
-                             port="DB_POPRT",
-                             database="DB_PLG")
+connection = psycopg2.connect(user=DB_USER,
+                             password=DB_PWORD,
+                             host=DB_AWS_CRED,
+                             port=DB_POPRT,
+                             database=DB_PLG)
 #gets the credentials from .aws/credentials
 
 sql0="""
