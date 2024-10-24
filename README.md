@@ -157,9 +157,7 @@ pleague-predictor/
 │   └── schedules/
 │       └── Upcoming_Schedule.csv
 ├── src/
-│   ├── scraper.py
-│   ├── processor.py
-│   ├── predictor.py
+│   ├── Predictor_nC.py
 │   └── db_manager.py
 └── README.md
 ```
