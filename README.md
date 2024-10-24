@@ -124,8 +124,6 @@ git clone https://github.com/yourusername/pleague-predictor
 # Dependencies Installation
 pip install -r requirements.txt
 
-# Database Configuration
-python setup_database.py --config config.yml
 ```
 
 ## Usage
@@ -164,7 +162,6 @@ pleague-predictor/
 │   ├── predictor.py
 │   └── db_manager.py
 ├── tests/
-├── config.yml
 └── README.md
 ```
 
