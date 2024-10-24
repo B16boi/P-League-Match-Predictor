@@ -1,6 +1,10 @@
 # P League+ Predictor
 A sophisticated system for predicting outcomes of Taiwanese professional basketball games using data-driven insights and machine learning.
 
+## Authors
+- **Syuan-Fu, Hwang**
+- **Yu-Chun, Lin**
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
