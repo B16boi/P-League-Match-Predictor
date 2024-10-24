@@ -161,7 +161,6 @@ pleague-predictor/
 │   ├── processor.py
 │   ├── predictor.py
 │   └── db_manager.py
-├── tests/
 └── README.md
 ```
 
