@@ -47,6 +47,7 @@ Date,Gamemode,Round,Home,Away
 2. **Cleaning**: Date standardization and statistical normalization
 3. **Integration**: Data consolidation from multiple sources
 4. **Validation**: Quality checks and error correction
+```mermaid
 flowchart LR
     subgraph Input["Raw Data"]
         C1[Collected Data]
@@ -66,6 +67,7 @@ flowchart LR
 
     style Input fill:#81d4fa
     style Processing fill:#4fc3f7
+```
 ## System Architecture
 
 ### 1. Data Collection Layer
