@@ -178,4 +178,3 @@ pleague-predictor/
 7. API endpoint implementation
 
 ---
-For more information or contributions, please open an issue or submit a pull request.
